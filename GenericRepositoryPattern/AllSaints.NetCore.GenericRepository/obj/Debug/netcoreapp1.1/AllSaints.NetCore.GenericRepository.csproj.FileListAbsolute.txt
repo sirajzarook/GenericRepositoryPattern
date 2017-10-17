@@ -1,0 +1,7 @@
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.csprojResolveAssemblyReference.cache
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.AssemblyInfo.cs
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Debug\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb

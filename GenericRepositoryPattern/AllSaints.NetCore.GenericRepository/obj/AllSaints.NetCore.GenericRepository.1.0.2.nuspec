@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AllSaints.NetCore.GenericRepository</id>
+    <version>1.0.2</version>
+    <authors>TMS Dev Team</authors>
+    <owners>TMS Dev Team</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AllSaints.NetCore.GenericRepository is a repository pattern abstraction. A Repository mediates between the domain and data mapping layers, acting like an in-memory domain object collection. Client objects construct query specifications declaratively and submit them to Repository for satisfaction. Objects can be added to and removed from the Repository, as they can from a simple collection of objects, and the mapping code encapsulated by the Repository will carry out the appropriate operations behind the scenes</description>
+    <copyright>Copyright 2017 (c) AllSaints .Net Team. All rights reserved</copyright>
+    <repository type="GIT" url="https://git.allsaints.io/projects/TMS/repos/genericrepositorypattern" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp1.1">
+        <dependency id="Microsoft.EntityFrameworkCore" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="1.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll" target="lib\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll" />
+    <file src="C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml" target="lib\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml" />
+  </files>
+</package>

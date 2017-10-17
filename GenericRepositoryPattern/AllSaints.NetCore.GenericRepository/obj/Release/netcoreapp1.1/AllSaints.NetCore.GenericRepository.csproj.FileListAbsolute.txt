@@ -1,0 +1,20 @@
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.AssemblyInfo.cs
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml\netcoreapp1.1\AllSaints.NetCore.GenericRepository.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.deps.json
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+c:\users\siraj.zarook\documents\visual studio 2017\Projects\AllSaints.NetCore.GenericRepository\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.deps.json
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\bin\Release\netcoreapp1.1\netcoreapp1.1\AllSaints.NetCore.GenericRepository.xml
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.AssemblyInfo.cs
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.dll
+C:\Stash\genericrepositorypattern\AllSaints.NetCore.GenericRepository\obj\Release\netcoreapp1.1\AllSaints.NetCore.GenericRepository.pdb
